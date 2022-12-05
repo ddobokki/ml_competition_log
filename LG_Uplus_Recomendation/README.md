@@ -1,5 +1,3 @@
-[TOC]
-
 # 2022 유플러스 AI Ground
 
 ![](img/poster.jpg)
